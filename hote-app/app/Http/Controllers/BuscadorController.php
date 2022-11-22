@@ -28,7 +28,7 @@ class BuscadorController extends Controller
      */
     public function create()
     {
-        //
+        return view('booking.search');
     }
 
     /**
