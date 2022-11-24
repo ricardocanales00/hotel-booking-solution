@@ -19,6 +19,8 @@ Route::get('/', function () {
     return view('home');
 });
 
+Route::view('es', 'home')->name('es');
+
 Route::get('/tunel', [TunelController::class, 'controllerMethod']);
 
 Route::resource('/reservation', 'App\Http\Controllers\ReservacionController')->name('*','reservation');

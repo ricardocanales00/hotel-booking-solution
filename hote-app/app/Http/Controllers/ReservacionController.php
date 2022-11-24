@@ -40,7 +40,7 @@ class ReservacionController extends Controller
      */
     public function create()
     {
-        //
+        
     }
 
     /**
@@ -88,7 +88,7 @@ class ReservacionController extends Controller
             $reservacion->save();
 
             Alert::success('Reserva confirmadada', 'Se ha confirmado tu reserva');
-            return redirect()->route('dashboard');
+            return redirect()->route('es');
     } 
     /**
      * Display the specified resource.

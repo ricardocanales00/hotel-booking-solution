@@ -4,14 +4,23 @@
             <div class="bookmark-wrapper d-flex align-items-center">
                 <ul class="nav navbar-nav d-xl-none">Hotel La Sinventura
                     <li class="nav-item"><a class="nav-link menu-toggle" href="#"><i class="ficon" data-feather="menu"></i></a></li>
+                    <li class="nav-item">
+                    <a class="nav-link" href="/dashboard"><i class="ficon" data-feather="home"></i></a>
+                </li>
                 </ul>
             </div>
             <ul class="nav navbar-nav align-items-center ms-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="/dashboard"><i class="ficon" data-feather="home"></i></a>
+                </li>
                 <li class="nav-item d-none d-lg-block">
-                    <a class="nav-link nav-link-style"><i class="ficon" data-feather="moon"></i></a></li>
+                    <a class="nav-link nav-link-style"><i class="ficon" data-feather="moon"></i></a>
+                </li>
+                
                 <li class="nav-item nav-search"><a class="nav-link nav-link-search">
                     <i class="ficon" data-feather="search"></i></a>
                     <div class="search-input">
+                        
                         <div class="search-input-icon"><i data-feather="search"></i></div>
                         <input class="form-control input" type="text" placeholder="Explore Vuexy..." tabindex="-1" data-search="search">
                         <div class="search-input-close"><i data-feather="x"></i></div>
