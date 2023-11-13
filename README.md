@@ -1,3 +1,2 @@
-# hotel-booking-solution
-
-Final versio of the Hotel booking solution with chatbot implementation.
+# SinVentura Official Website
+This GitHub repository houses the source code for a comprehensive Hotel Management System developed in Laravel using PHP. The system seamlessly integrates various functionalities to streamline online booking processes, efficient room management, and user account creation. Notably, it also incorporates a sophisticated chatbot feature, enhancing user experience by facilitating reservation creation through natural language interactions. Embrace the power of Laravel for robust and scalable hotel management solutions, coupled with innovative features to meet the evolving demands of the hospitality industry.
